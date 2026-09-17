@@ -91,6 +91,6 @@ This project was created to practice:
 
 ## 👨‍💻 Author
 
-**Sreenivas Reddy**
+Sreenivas Reddy
 
 GitHub: [SreenivasReddy9](https://github.com/Sreenivasreddy9)
